@@ -1,2 +1,2 @@
-name='c'
+user='c'
 password='d'
